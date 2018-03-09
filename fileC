@@ -1,0 +1,4 @@
+Branching enables to operate various version of a repo at the same time.
+Master is the default branch of a repository.
+A copy or snapshot of the master is captured when a branch is created from the master.
+Changes made to the master by a different user while working on the branch copy that can be pulled to the branch using the pull request.
